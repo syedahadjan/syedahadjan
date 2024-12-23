@@ -8,10 +8,10 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/arsalan307/arsalan307"/> 
+ <img src="https://badges.pufler.dev/visits/syedahadjan/syedahadjan"/> 
  <!-- <img src="https://badges.pufler.dev/years/arsalan307"/> -->
- <img src="https://badges.pufler.dev/repos/arsalan307"/>
- <img src="https://badges.pufler.dev/commits/monthly/arsalan307" />
+ <img src="https://badges.pufler.dev/repos/syedahadjan"/>
+ <img src="https://badges.pufler.dev/commits/monthly/syedahadjan" />
 
 </p>
 
