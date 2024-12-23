@@ -2,8 +2,8 @@
 <p align="center">
  
 </p align="center">
-<div style = margin = 0, 0, 0, 0,>
-<img src="https://i.ibb.co/HX4gq6K/Gemini-Generated-Image-39n2tb39n2tb39n2.jpg" alt="Gemini-Generated-Image-39n2tb39n2tb39n2" height="300px" border="0">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="https://i.ibb.co/HX4gq6K/Gemini-Generated-Image-39n2tb39n2tb39n2.jpg" alt="Gemini-Generated-Image-39n2tb39n2tb39n2" height="300px" border="0">
 </div>
 <p align="center">
  
