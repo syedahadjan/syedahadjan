@@ -46,7 +46,7 @@
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
-  <img src="https://github.com/arsalan307/arsalan307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/syedahadjan/syedahadjan/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <h2 align="center">
@@ -56,7 +56,7 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=arsalan307&show_icons=true&theme=radical&line_height=27">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=syedahadjan&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arsalan307&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
@@ -65,7 +65,7 @@
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=arsalan307&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=syedahadjan&theme=redical">
 </p> 
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
