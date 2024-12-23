@@ -1,7 +1,7 @@
 <!-- Syed Arsalan Jan's Portfolio -->
 <div align="center">
+ <h1>SYED ARSALAN JAN</h1>
 <img src="https://i.ibb.co/HX4gq6K/Gemini-Generated-Image-39n2tb39n2tb39n2.jpg" alt="Gemini-Generated-Image-39n2tb39n2tb39n2" height= "200px">
-<h1>SYED ARSALAN JAN</h1>
  <h2>Founder of Code Commandos</h2>
 </div align="center">
 
