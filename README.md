@@ -2,7 +2,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/arsalan307/arsalan307/blob/main/images/newbg(1).png" />
+<img src="https://i.ibb.co/HX4gq6K/Gemini-Generated-Image-39n2tb39n2tb39n2.jpg" alt="Gemini-Generated-Image-39n2tb39n2tb39n2" border="0">
 
 <p align="center">
  
