@@ -33,10 +33,10 @@
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-<a href="mailto: syedarsalanjan307@gmail.com">
- <img src="https://img.shields.io/badge/-syedarsalanjan307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:syedarsalanjan307@gmail.com"/>
+<a href="mailto: syedahad63@gmail.com">
+ <img src="https://img.shields.io/badge/-syedarsalanjan307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:syedahad63@gmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/syed-arsalan-jan/">
+<a href="https://www.linkedin.com/in/syed-arsalan-jan-725a09241/">
  <img src="https://img.shields.io/badge/-syedarsalanjan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syed-arsalan-jan/"/>
 </a>
  <a href="https://twitter.com/syedarsalan307">
