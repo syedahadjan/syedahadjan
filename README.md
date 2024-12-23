@@ -41,12 +41,11 @@
  <img src="https://img.shields.io/badge/-syedarsalanjan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syed-arsalan-jan/"/>
 </p>
 
-
 <h2 align="center">
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
-  <img src="https://github.com/syedahadjan/syedahadjan/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://i.ibb.co/HX4gq6K/Gemini-Generated-Image-39n2tb39n2tb39n2.jpg" alt="My Contribution Graph Image" width="600px" border="0">
 </p>
 
 <h2 align="center">
