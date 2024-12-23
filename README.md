@@ -38,10 +38,6 @@
 </a>
 <a href="https://www.linkedin.com/in/syed-arsalan-jan-725a09241/">
  <img src="https://img.shields.io/badge/-syedarsalanjan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syed-arsalan-jan/"/>
-</a>
- <a href="https://twitter.com/syedarsalan307">
- <img src="https://img.shields.io/badge/-syedarsalan307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/syedarsalan307"/>
-</a>
 </p>
 
 
