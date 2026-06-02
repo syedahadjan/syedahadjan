@@ -1,9 +1,4 @@
 <!-- Syed Arsalan Jan's GitHub README -->
-<div align="center">
-  <h1>SYED ARSALAN JAN</h1>
-  <img src="https://i.ibb.co/HX4gq6K/Gemini-Generated-Image-39n2tb39n2tb39n2.jpg" alt="Profile Picture" width="200" style="border-radius: 50%; border: 4px solid #3B82F6;">
-  <h2>Founder of Code Commandos</h2>
-</div>
 
 ---
 
